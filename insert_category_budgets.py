@@ -17,6 +17,7 @@ def main():
         'business_expenses': None,
         'app_subscriptions': 100
     }
+    # sum of all budgets is 4690.91
 
     # create table for categories
     try:

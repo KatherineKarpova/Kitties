@@ -1,0 +1,1 @@
+SELECT SUM(budgeted_amount) FROM budgets;
